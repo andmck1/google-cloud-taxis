@@ -9,6 +9,7 @@ python = "^3.7"
 numpy = "^1.18.1"
 pandas = "^1.0.1"
 sklearn = "^0.0"
+pyarrow = "^0.16.0"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
