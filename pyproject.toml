@@ -11,6 +11,7 @@ pandas = "^1.0.1"
 sklearn = "^0.0"
 pyarrow = "^0.16.0"
 geopy = "^1.21.0"
+pandarallel = "^1.4.6"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
